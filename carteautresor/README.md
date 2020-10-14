@@ -1,18 +1,18 @@
-//// YUNUS BOZKURT CARBONIT ////
+//// YUNUS BOZKURT ////
 
 COMPILATION
 
-Après avoir lancé le projet, éxecuter le fichier CarteTresors.java (src/main/java/main/CarteTresors.java)
-ensuite suivez les indications.
-Vous avez un fichier d'entree en exemple dans le dossier resources (src/main/resources/carteExemple.txt)
-Au final vous allez avoir un fichier de sortie (à la racine du projet)
-ou vous pourrez voir les résultats des aventuriers.
+After starting the project, run the file CarteTresors.java  (src/main/java/main/CarteTresors.java)
+then follow the directions.
+You have a sample input file in the resources folder (example for map) (src/main/resources/carteExemple.txt)
+In the end you will have an output file (at the root of the project)
+where you can see the results of the adventurers.
 
 
 TEST
 
-Des tests ont été réalisés, vous pouvez les trouver dans le dossier src/test/java.
-Lancer tout les fichiers qui sont dans le dossier src/test/java/model et pour le test
-d'une partie dans le dossier src/test/java/service.
+Tests have been performed, you can find them in the src/test/java folder.
+Launch all the files that are in the src/test/java/model folder and for the test
+a part in the src/test/java/service folder.
 
 
