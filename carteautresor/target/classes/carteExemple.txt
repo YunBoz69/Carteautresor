@@ -1,0 +1,7 @@
+C - 3 - 4
+M - 1 - 0
+M - 2 - 1
+T - 2 - 1 - 2
+T - 2 - 2 - 1
+A - Yunus - 1 - 1 - E - AADADAGA
+A - CarbonIT - 0 - 1 - O - GGAGAADDA
